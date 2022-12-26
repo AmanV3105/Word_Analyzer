@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tut-2/static/css/main.24f9d6e2.css",
+    "main.js": "/tut-2/static/js/main.cfd3f9c4.js",
+    "static/js/787.a444f385.chunk.js": "/tut-2/static/js/787.a444f385.chunk.js",
+    "index.html": "/tut-2/index.html",
+    "main.24f9d6e2.css.map": "/tut-2/static/css/main.24f9d6e2.css.map",
+    "main.cfd3f9c4.js.map": "/tut-2/static/js/main.cfd3f9c4.js.map",
+    "787.a444f385.chunk.js.map": "/tut-2/static/js/787.a444f385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f9d6e2.css",
+    "static/js/main.cfd3f9c4.js"
+  ]
+}
